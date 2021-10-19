@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuns-u
+- 👋 Hi, I’m Yunsu Lee
 - 👀 I’m interested in AI, UI/UX
 - 🌱 I’m currently learning AI, Python SQL and so on.
 - 💞️ I’m looking to collaborate on ...lots of interesting things.
